@@ -1,0 +1,5 @@
+|||
+A: For POP connections using TLS, use port number 995.
+For IMAP connections using TLS use port number 993.
+For SMTP connections using TLS use port number 465.
+September 27th 9:14 AM, One Palistine.
